@@ -1,5 +1,5 @@
 import pytest
-from algorithms.functions.binary_search.binary_search import binary_search
+from algorithms.functions.binary_search import binary_search
 
 def test_binary_search_finds_sorted():
 	items = [1, 3, 5, 7, 9]

@@ -5,6 +5,10 @@
 -	Sorting
 	- [Binary Search](https://github.com/estebanborai/algorithms/blob/master/algorithms/functions/binary_search/binary_search.py)
 
+Algorithm | Type | Implementation | Explanation
+--- | --- | --- | ---
+Binary Search | Sorting | [Code](https://github.com/estebanborai/algorithms/blob/master/algorithms/functions/binary_search.py) | [Notebook](https://github.com/estebanborai/algorithms/blob/master/notebooks/binary_search.ipynb)
+
 ## Debbuging
 Debbuging its possible using Visual Studio Code.
 **Python**'s extension is required in order to use the debugger with Visual Studio Code.
